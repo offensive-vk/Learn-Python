@@ -7,3 +7,5 @@ print(greeting)
 num = int(input("Enter a number: "))
 result = export.num(num)
 print("Square:", result)
+
+export.number = export.Number(749)
