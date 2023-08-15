@@ -1,9 +1,12 @@
 # Lists in Python
 # Create a list
-fruits = ['apple', 'banana', 'cherry', 'date', 'elderberry']
+fruits = ['apple', 'banana', 'cherry', 'date', 'strawberry']
+
+# Get the length of the list
+print(len(fruits))
 
 # Append an item to the end of the list
-# fruits.append('fig')
+fruits.append('pineapple')
 
 # Insert an item at a specific position
 fruits.insert(2, 'grape')
