@@ -1,3 +1,9 @@
+# what are functions?
+# A block of code that you can use multiple times throught the program.
+# types of functions ::
+# 1. Built in: print(), len, input, list,
+# 2. User defined: using def keyword
+
 def greet(name):
     """This function greets the person passed in as a parameter."""
     print(f"Hello, {name}!")
