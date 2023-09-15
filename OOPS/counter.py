@@ -1,8 +1,9 @@
+
 class MyClass:
     # Class variable to keep track of the number of objects created
     num_objects = 0
 
-    def _init_(self):
+    def __init__(self):
         # Increment the count of objects when a new object is created
         MyClass.num_objects += 1
 
