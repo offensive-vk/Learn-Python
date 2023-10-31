@@ -2,6 +2,34 @@
 <a href="https://python.org"><img src="https://github.com/offensive-vk/Python/blob/master/.idea/python.jpg" alt="a" /></a>
 </div>
 
+## Simple Python Code :
+```python 
+  print("Hello Python !")
+  print("What is 1 Plus 1? ", 1+1)
+```
+# Another Detailed Code: 
+```python
+print("=========================================\n")
+
+# input a which is a number
+a = int(input("Enter A Number : "))
+
+# input b which is a floating number
+b = float(input("Enter B Float : "))
+
+# input a which is a string
+c = input("Enter String : ")
+print("\n=========================================\n")
+
+# special format specifiers
+print(f"Values are: \nA: ${a}\nB: ${b}\nC: ${c}")
+print("\n - New line\n")
+print("\t - Tab Space\n")
+print("\v - Vertical Tab Space\n")
+print("\' - Single and \" Double Quote\n")
+
+print("\n============ The End ===================\n")
+```
 # Python
 Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation.
 
