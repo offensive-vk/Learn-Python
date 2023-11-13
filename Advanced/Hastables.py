@@ -56,3 +56,23 @@ class Hashtable:
             print("None")
 
 
+# Example usage
+if __name__ == "__main__":
+    hashtable = Hashtable()
+
+    # Insert some key-value pairs
+    hashtable.insert("one", 1)
+    hashtable.insert("two", 2)
+    hashtable.insert("three", 3)
+
+    # Display the hashtable
+    print("Hashtable:")
+    hashtable.display()
+
+    # Search for a key
+    print("\nValue for key 'two':", hashtable.search("two"))
+
+    # Delete a key
+    hashtable.delete("two")
+    print("\nHashtable after deleting key 'two':")
+    hashtable.display()
