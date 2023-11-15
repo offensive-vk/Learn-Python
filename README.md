@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://python.org"><img src="https://github.com/offensive-vk/Python/blob/master/.idea/python.jpg" alt="a" /></a>
+<a href="https://python.org"><img src="https://cdn.jsdelivr.net/gh/offensive-vk/Python@master/.idea/python.jpg" alt="a" /></a>
 </div>
 
 ## Simple Python Code :
