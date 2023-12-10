@@ -10,3 +10,7 @@ class Global:
         print(f"Salary : {obj.salary}")
 
         return obj
+
+## Usage
+G = Global('Manish Pandey', 95000, 30)
+G.displayData(G)
