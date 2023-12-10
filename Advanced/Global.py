@@ -1,4 +1,12 @@
+from abc import abstractmethod, ABC
 class Top:
+    def __init_subclass__(cls, **kwargs):
+        pass
+    
+    @staticmethod
+    @abstractmethod
+    def display(self):
+        pass
     pass
 class Global(Top):
     def __init__(self, name, age, salary):
