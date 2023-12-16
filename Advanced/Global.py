@@ -1,14 +1,14 @@
-from abc import abstractmethod, ABC
+from abc import abstractmethod
 class Top:
     def __init_subclass__(cls, **kwargs):
         pass
-    
+
     @staticmethod
     @abstractmethod
     def display(self):
         pass
     pass
-class Global(Top):
+class Global:
     def __init__(self, name, age, salary):
         self.name = name
         self.salary = salary
@@ -22,7 +22,7 @@ class Global(Top):
         return obj
 
     @staticmethod
-    def updateData(obj)-> str:
+    def updateData(obj) -> str:
         print("What Do you wanna update? \n")
         print(f"1. Name : (Current Set : {obj.name})")
         print(f"2. Age : (Current Set : {obj.age})")
