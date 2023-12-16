@@ -1,7 +1,11 @@
 from abc import abstractmethod
 class Top:
+    def __int__(self, key, value):
+        self.key = key
+        self.value = value
+
     def __init_subclass__(cls, **kwargs):
-        pass
+        print("Top class is subclassed.")
 
     @staticmethod
     @abstractmethod
