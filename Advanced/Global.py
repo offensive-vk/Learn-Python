@@ -7,7 +7,7 @@ class Top:
     @abstractmethod
     def display(self):
         pass
-    pass
+
 class Global:
     def __init__(self, name, age, salary):
         self.name = name
@@ -47,5 +47,7 @@ class Global:
 
 # Usage
 G = Global('Alex', 95000, 30)
+R = Global("Raju", 55, 65000)
+
 Global.displayData(G)
 Global.updateData(G)
