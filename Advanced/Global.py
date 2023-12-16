@@ -49,5 +49,11 @@ class Global:
 G = Global('Alex', 95000, 30)
 R = Global("Raju", 55, 65000)
 
+print(f"Showing {G.name}'s data : \n")
 Global.displayData(G)
-Global.updateData(G)
+
+print("=========================\n")
+
+print(f"Showing {R.name}'s data : \n")
+Global.displayData(R)
+print("=========================\n")
