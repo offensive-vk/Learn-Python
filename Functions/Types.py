@@ -15,5 +15,4 @@ def sort_descending(numbers: List[float]) -> List[float]:
 
 # Example usage:
 numbers_list = [3.5, 1.2, 7.8, 2.0, 5.4]
-sorted_numbers = sort_descending(numbers_list)
-print(sorted_numbers)
+print(sort_descending(numbers_list))
