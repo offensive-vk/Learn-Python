@@ -42,3 +42,38 @@ def battle(pokemon1, pokemon2):
         print(f"{pokemon2.name} fainted!")
         time.sleep(1)  # Introduce a delay for better visualization
 
+def main():
+    # Create two Pokemon
+    pikachu = Pokemon("", 0, 0, 0, 0)
+    charmander = Pokemon("", 0, 0, 0, 0)
+
+    # Initialize Pokemon
+    initialize_pokemon(pikachu, "Pikachu", 10, 50, 20, 15)
+    initialize_pokemon(charmander, "Charmander", 8, 45, 18, 12)
+
+    # Display Pokemon information
+    print("Initial Pokemon Information:")
+    display_pokemon(pikachu)
+    display_pokemon(charmander)
+
+    # Simulate a battle between the two Pokemon
+    print("Battle Begins!")
+    while pikachu.health > 0 and charmander.health > 0:
+        # Randomly decide which Pokemon attacks first
+        if random.choice([True, False]):
+            battle(pikachu, charmander)
+            if charmander.health > 0:
+                battle(charmander, pikachu)
+        else:
+            battle(charmander, pikachu)
+            if pikachu.health > 0:
+                battle(pikachu, charmander)
+
+    # Display the result of the battle
+    if pikachu.health <= 0:
+        print("Pikachu fainted. Charmander wins!")
+    else:
+        print("Charmander fainted. Pikachu wins!")
+
+if __name__ == "__main__":
+    main()
