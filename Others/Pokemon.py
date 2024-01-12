@@ -42,14 +42,19 @@ def battle(pokemon1, pokemon2):
         print(f"{pokemon2.name} fainted!")
         time.sleep(1)  # Introduce a delay for better visualization
 
+def assign(x: int, y: int) -> int:
+    return random.randint(x, y)
+
 def main():
+
     # Create two Pokemon
     pikachu = Pokemon("", 0, 0, 0, 0)
     charmander = Pokemon("", 0, 0, 0, 0)
 
     # Initialize Pokemon
     initialize_pokemon(pikachu, "Pikachu", 10, 50, 20, 15)
-    initialize_pokemon(charmander, "Charmander", 8, 45, 18, 12)
+    # initialize_pokemon(pikachu, "Prime Pikachu", assign(1,10), assign(40,50), assign(10,20), assign(10,15))
+    initialize_pokemon(charmander, "Charmander", 10, 45, 18, 12)
 
     # Display Pokemon information
     print("Initial Pokemon Information:")
