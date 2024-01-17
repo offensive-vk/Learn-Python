@@ -17,3 +17,9 @@ def perform_operations():
 
     print(f"Created a new file: {new_file_path}")
 
+    # Rename the file
+    renamed_file_path = 'renamed_file.txt'
+    os.rename(new_file_path, renamed_file_path)
+    print(f"Renamed the file to: {renamed_file_path}")
+
+
