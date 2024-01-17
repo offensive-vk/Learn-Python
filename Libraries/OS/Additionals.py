@@ -22,4 +22,11 @@ def additional_os_operations():
     print(f"Last Access Time: {time.ctime(file_info.st_atime)}")
     print(f"Last Modification Time: {time.ctime(file_info.st_mtime)}")
 
+    # Update file timestamps
+    new_timestamp = time.time()
+    os.utime(temp_file_path, times=(new_timestamp, new_timestamp))
+    updated_file_info = os.stat(temp_file_path)
+    print("\nUpdated File Information:")
+    print(f"Last Access Time: {time.ctime(updated_file_info.st_atime)}")
+    print(f"Last Modification Time: {time.ctime(updated_file_info.st_mtime)}")
 
