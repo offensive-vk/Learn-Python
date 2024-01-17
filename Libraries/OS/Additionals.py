@@ -30,3 +30,9 @@ def additional_os_operations():
     print(f"Last Access Time: {time.ctime(updated_file_info.st_atime)}")
     print(f"Last Modification Time: {time.ctime(updated_file_info.st_mtime)}")
 
+    # Remove the temporary file
+    os.remove(temp_file_path)
+    print(f"\nRemoved the temporary file: {temp_file_path}")
+
+if __name__ == "__main__":
+    additional_os_operations()
