@@ -22,4 +22,10 @@ def perform_operations():
     os.rename(new_file_path, renamed_file_path)
     print(f"Renamed the file to: {renamed_file_path}")
 
+    # Remove the directory and its contents
+    os.chdir('..')  # Move up one directory
+    os.rmdir(new_directory)
+    print(f"Removed the directory: {new_directory}")
 
+if __name__ == "__main__":
+    perform_operations()
