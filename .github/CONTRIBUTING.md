@@ -12,3 +12,4 @@ When contributing to this repository, please follow these rules:
 - Create PR [here](https://github.com/offensive-vk/Python/pr) and Issue [here](https://github.com/offensive-vk/Python/issue) for creating an issue.
 - Your Pull Request will be reviewed accordingly and will merge.
 - Author : [offensive-vk](https://github.com/offensive-vk/)
+- Thank you.
