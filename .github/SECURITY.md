@@ -3,6 +3,12 @@
 - Contributors
 - People who use this Repo.
 
+# Reporting Security Issues or Vulnerability.
+If you believe you have found a security vulnerability, I / we encourage you to let us know right away.
+
+I / We will investigate all legitimate reports and do our best to quickly fix the problem.
+Your responsibility is to Maintain The Security and Privacy Of This Repo.
+
 1. Clone repo locally - 
 ```bash
 $ mkdir Python
