@@ -3,3 +3,4 @@ test/
 tests/
 main.py
 dist/
+.vscode/
