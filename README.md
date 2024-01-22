@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://python.org"><img src="https://cdn.jsdelivr.net/gh/offensive-vk/Python@master/.idea/python.jpg" alt="python" height="300" width="600"/></a>
+  <a href="https://python.org"><img src="https://cdn.jsdelivr.net/gh/offensive-vk/Python@master/.github/python.jpg" alt="python" height="300" width="600"/></a>
 </div>
 
 ## What is Python ?
