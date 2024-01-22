@@ -1,4 +1,3 @@
-
 class MyClass:
     # Class variable to keep track of the number of objects created
     num_objects = 0

@@ -1,11 +1,11 @@
-import export
+import Export
 
 name = input("Enter your name: ")
-greeting = export.greet(name)
+greeting = Export.greet(name)
 print(greeting)
 
 num = int(input("Enter a number: "))
-result = export.num(num)
+result = Export.num(num)
 print("Square:", result)
 
-export.number = export.Number(749)
+Export.number = Export.Number(749)
