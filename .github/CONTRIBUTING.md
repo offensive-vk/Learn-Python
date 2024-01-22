@@ -1,9 +1,4 @@
-# Please Follow Contribution Guidelines.
-
-When contributing to this repository, please follow these rules: 
-- First of all create an issue for the change you wish to make via [GitHub](https://github.com/offensive-vk/Python/issue)
-- If you want to contribute in questions/solutions to this repository please consider submitting a [PR](https://github.com/offensive-vk/Python/pr) first.
-- Code review is required on every push / pr, minimum 1 or more reviewers should be assigned.
+# Please Follow Contribution Guidelines Below.
 
 ## Pre-requisties before contributing to this repo:
 - A Github Account 
@@ -13,3 +8,8 @@ When contributing to this repository, please follow these rules:
 - Your Pull Request will be reviewed accordingly and will merge.
 - Author : [offensive-vk](https://github.com/offensive-vk/)
 - Thank you.
+
+### When contributing to this repository, please follow these rules: 
+- First of all create an issue for the change you wish to make via [GitHub](https://github.com/offensive-vk/Python/issue)
+- If you want to contribute in questions/solutions to this repository please consider submitting a [PR](https://github.com/offensive-vk/Python/pr) first.
+- Code review is required on every push / pr, minimum 1 or more reviewers should be assigned.
