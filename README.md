@@ -13,9 +13,9 @@ Guido van Rossum began working on Python in the late 1980s as a successor to the
 ## Quick Links and Navigation:
 For Any Information About Contribution and Documentation of This Repo. <br>
 ### Please Refer to: 
-- [Documentation](https://github.com/offensive-vk/Python/blob/master/README.md) <br>
-- [Contribution Guidelines](https://github.com/offensive-vk/Python/blob/master/CONTRIBUTING.md) <br>
-- [Security Guidelines](https://github.com/offensive-vk/Python/blob/master/SECURITY.md) <br>
+- [Documentation 📖](https://github.com/offensive-vk/Python/blob/master/README.md) <br>
+- [Contribution Guidelines ✨](https://github.com/offensive-vk/Python/blob/master/CONTRIBUTING.md) <br>
+- [Security Guidelines ⚠️](https://github.com/offensive-vk/Python/blob/master/SECURITY.md) <br>
 - [Author 🧑‍💻](https://github.com/offensive-vk/) <br>
 
 ## Sample Code : 
