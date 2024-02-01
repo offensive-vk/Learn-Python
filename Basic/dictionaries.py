@@ -1,4 +1,3 @@
-
 # Create a dictionary
 student = {
     'name': 'Rupesh Don',
