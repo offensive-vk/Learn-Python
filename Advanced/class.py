@@ -1,47 +1,20 @@
+# a class is a blueprint for creating objects. Objects are instances of classes, 
+# and classes define the properties (attributes) and behaviors (methods) that the objects created from them will have. 
 
-class Sourabh:
-    name = ''
-    counter = 0
-    marks = int(0)
-    def __init__(self):
-        self.counter += 1
-        pass
-    def __init__(self, _name) -> None:
-        self.name = _name
-        print(f"Constructor of {self.name} Class has been created. ")
-        self.counter += 1
-        pass
-    def calculate():
-        return "Calculating ..."
-    def count(self):
-        print(f"Number of Objects Created : {self.counter}")
-        
-# top = Sourabh('')
-# # top.mark(966)
+class Dog:
+    def __init__(self, name, age):
+        self.name = name
+        self.age = age
 
-# first = Sourabh("Manish")
-# second = Sourabh("Rupesh")
-# third = Sourabh("Himanshu")
+    def bark(self):
+        print(f"{self.name} says Woof!")
 
-# top.count()
+# Creating an instance of the Dog class
+my_dog = Dog(name="Buddy", age=3)
 
+# Accessing attributes
+print(f"My dog's name is {my_dog.name}.")
+print(f"My dog is {my_dog.age} years old.")
 
-class doSomething(Sourabh):
-    # def __init__(self, _name) -> None:
-    #     super().__init__(_name)
-    def __init__(self) -> None:
-        print("doSomething called ")
-        
-        
-    def add()->None:
-        print('You havent entered something')
-        return None
-    def add(a,b)-> int:
-        return a + b
-    def add(a,b,c)-> int:
-        return a + b + c
-    def add(a, b, c, d)-> int:
-        return a + b + c + d
-    
-do = doSomething()
-do.calculate()
+# Calling a method
+my_dog.bark()
