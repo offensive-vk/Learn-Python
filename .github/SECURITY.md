@@ -21,4 +21,4 @@ $ cd Python
 $ code . # (for VS Code)
 ```
 
-3. To Suggest Changes of your branch , Create an PR [here](https://github.com/offensive-vk/Python/pr).
+3. To Suggest Changes of your branch , Create an PR [here](https://github.com/offensive-vk/Python/pulls).
