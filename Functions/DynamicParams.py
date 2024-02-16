@@ -15,4 +15,4 @@ def dynamic_params_example(*args, **kwargs):
         print(f"{key}: {value}")
 
 # Example usage of the function with different types of parameters
-dynamic_params_example(1, 2, 3, name="Alice", age=30)
+dynamic_params_example(17, 22, 39, name="John", age=30)
