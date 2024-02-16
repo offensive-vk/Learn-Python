@@ -1,5 +1,5 @@
 # what are functions?
-# A block of code that you can use multiple times throught the program.
+# A block of code that you can use multiple times throughout the program.
 # types of functions ::
 # 1. Built in: print(), len, input, list,
 # 2. User defined: using def keyword
