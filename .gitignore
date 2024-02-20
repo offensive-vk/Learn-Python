@@ -6,3 +6,4 @@ dist/
 .vscode/
 .idea/
 *.xml
+__pycache__/

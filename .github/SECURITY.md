@@ -1,5 +1,5 @@
 # Basic Privacy and Security Guidelines for 
-- Users
+- Users / Programmers.
 - Contributors
 - People who use this Repo.
 
@@ -21,4 +21,4 @@ $ cd Python
 $ code . # (for VS Code)
 ```
 
-3. To Suggest Changes of your branch , Create an PR [here](https://github.com/offensive-vk/Python/pulls).
+3. To Suggest Changes of your branch , Create an Pull Request [here](https://github.com/offensive-vk/Python/pulls).

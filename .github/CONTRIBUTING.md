@@ -5,7 +5,7 @@
 - Only Github is the version control system supported.
 - Any Code Editor Like [VS Code](https://code.visualstudio.com/download)
 - Fork this repo and starting developing or improve this repo with changes of your own.
-- Create PR [here](https://github.com/offensive-vk/Python/pulls) or issue [here](https://github.com/offensive-vk/Python/issues) for creating an issue.
+- Create a Pull Request [here](https://github.com/offensive-vk/Python/pulls) or click [here](https://github.com/offensive-vk/Python/issues) for creating an issue.
 - Your Pull Request will be reviewed and will be merged accordingly.
 - Author : [offensive-vk](https://github.com/offensive-vk/)
 - Thank you.
