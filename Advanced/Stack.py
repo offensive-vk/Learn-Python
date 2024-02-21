@@ -21,3 +21,17 @@ class Stack:
         return len(self.stack) == 0
 
 
+# Example usage:
+stack = Stack()
+
+stack.push(1)
+stack.push(2)
+stack.push(3)
+
+print(stack.peek())  # Output: 3
+
+print(stack.pop())   # Output: 3
+print(stack.pop())   # Output: 2
+print(stack.pop())   # Output: 1
+
+print(stack.isEmpty())  # Output: True
