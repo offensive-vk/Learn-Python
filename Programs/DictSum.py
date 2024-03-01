@@ -1,4 +1,5 @@
 # Write a python program to find the sum of dictionary values
+
 def sum_dictionary_values(dictionary):
     total_sum = 0
     for value in dictionary.values():
