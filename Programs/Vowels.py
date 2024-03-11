@@ -1,4 +1,3 @@
-
 def count_vowels(string):
     vowels = ['a', 'e', 'i', 'o', 'u']
     count = 0

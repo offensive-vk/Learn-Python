@@ -1,29 +1,34 @@
-# Basic Privacy and Security Guidelines for
+# Basic Privacy and Security Guidelines
 
-- Users / Programmers.
-- Contributors
-- People who use this Repo.
+## For Users / Programmers:
 
-# Reporting Security Issues or Vulnerability
+- Keep your credentials and sensitive information secure.
+- Use strong and unique passwords.
+- Enable two-factor authentication where possible.
+- Regularly update your software and dependencies to patch security vulnerabilities.
+- Be cautious of phishing attempts and suspicious links.
 
-If you believe you have found a security vulnerability, I / we encourage you to let us know right away.
+## For Contributors:
 
-I / We will investigate all legitimate reports and do our best to quickly fix the problem.
-Your responsibility is to Maintain The Security and Privacy Of This Repo.
+- Follow secure coding practices to minimize vulnerabilities.
+- Avoid hardcoding sensitive information.
+- Review and test your code thoroughly before submitting Pull Requests.
+- Be mindful of data privacy when handling user information.
+- Collaborate securely with other contributors.
 
-1. Clone repo locally -
+## For Users of this Repository:
 
-```bash
-mkdir Python
-git clone https://github.com/offensive-vk/Python/
-```
+- Be cautious when downloading and executing code from this repository.
+- Verify the integrity of downloaded files and packages.
+- Report any suspicious activity or security concerns.
 
-2. Start Developing your own changes or enhancements -
+## Reporting Security Issues or Vulnerabilities
 
-```bash
-cd Python
-code . # (for VS Code)
-```
+If you believe you have found a security vulnerability, we encourage you to let us know right away.
 
-3. To Suggest Changes of your branch , Create an Pull Request [here](https://github.com/offensive-vk/Python/pulls).
+We will investigate all legitimate reports and do our best to quickly fix the problem.
 
+Your responsibility is to maintain the security and privacy of this repository.
+
+Leave at Issue at our [Issue Panel](https://github.com/offensive-vk/Learn-Python/issues/)
+, we'll quickly start working to resolve it.

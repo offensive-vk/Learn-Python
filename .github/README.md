@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://python.org"><img src="https://cdn.jsdelivr.net/gh/offensive-vk/Python@master/.github/python.jpg" alt="python" height="300" width="600"/></a>
+  <a href="https://python.org"><img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/python/python-original.svg" alt="python" height="200" width="200"/></a>
 </div>
 
 ## What is Python ?
@@ -12,14 +12,14 @@ Guido van Rossum began working on Python in the late 1980s as a successor to the
 
 ## Quick Links and Navigation
 
-For Any Information About Contribution and Documentation of This Repo. <br>
+For Any Information About Contribution and Documentation of This Repo.
 
 ### Please Refer to
 
-- [Documentation 📖](https://github.com/offensive-vk/Python/blob/master/.github/README.md) <br>
-- [Contribution Guidelines ✨](https://github.com/offensive-vk/Python/blob/master/.github/CONTRIBUTING.md) <br>
-- [Security Guidelines ⚠️](https://github.com/offensive-vk/Python/blob/master/.github/SECURITY.md) <br>
-- [Author 🧑‍💻](https://github.com/offensive-vk/) <br>
+- [Documentation 📖](https://github.com/offensive-vk/Python/blob/master/.github/README.md) *Currently Reading.*
+- [Contribution Guidelines ✨](https://github.com/offensive-vk/Python/blob/master/.github/CONTRIBUTING.md)
+- [Security Guidelines ⚠️](https://github.com/offensive-vk/Python/blob/master/.github/SECURITY.md)
+- [Author 🧑‍💻](https://github.com/offensive-vk/)
 
 ## Sample Code
 
@@ -38,7 +38,7 @@ c = input("Enter String : ")
 print("\n=========================================\n")
 
 # special format specifiers
-print(f"Values are: \nA:   {a}\nB: {b}\nC: {c}")
+print(f"Values are: \nA: {a}\nB: {b}\nC: {c}")
 print("\n - New line\n")
 print("\t - Tab Space\n")
 print("\v - Vertical Tab Space\n")
@@ -46,3 +46,34 @@ print("\' - Single and \" Double Quote\n")
 
 print("\n============ The End ===================\n")
 ```
+
+## How to Actually Learn Python from Here
+
+- Read Complete Documentation of Python Given Here.
+- Explore `Readme.md` File Given here.
+- Learn Why Python is so famous and flexible.
+- Setup Your Python Environment / IDE.
+- Navigate to [Basic Python Programs](https://github.com/offensive-vk/Learn-Python/tree/master/Basic/) folder for very easy programs.
+- Open Any Program you like, e.g `First.py`.
+- Start Learning Fundamental Concepts like -
+
+  - Basic Syntax of Python
+  - Variables and Identifiers
+  - Loops
+  - Conditional Statements
+  - DataTypes - Primitive
+  - Functions Expressions
+  - Lists
+  - Dictionaries
+  - Tuples
+  - Strings
+
+- Build A Strong Foundation of Basis / Core Concepts
+- Slowly Slowly, Learn More Concepts , and Keep Revising Everything.
+- Navigate to [Functions](https://github.com/offensive-vk/Learn-Python/tree/master/Functions) Directory to learn more about functions.
+- Navigate to [Libraries](https://github.com/offensive-vk/Learn-Python/tree/master/Libraries) Directory to learn more about Libraries.
+- Keep Revising Your Recently Learned Concepts.
+- At last, Navigate to [Advanced](https://github.com/offensive-vk/Learn-Python/tree/master/Advanced) Directory to learn more about advanced concepts in Python.
+- Always ready to tackle any errors and exceptions occurred while coding.
+
+***
