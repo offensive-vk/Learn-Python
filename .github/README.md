@@ -16,7 +16,7 @@ For Any Information About Contribution and Documentation of This Repo.
 
 ### Please Refer to
 
-- [Documentation 📖](https://github.com/offensive-vk/Python/blob/master/.github/README.md)
+- [Documentation 📖](https://github.com/offensive-vk/Python/blob/master/.github/README.md) *Currently Reading.*
 - [Contribution Guidelines ✨](https://github.com/offensive-vk/Python/blob/master/.github/CONTRIBUTING.md)
 - [Security Guidelines ⚠️](https://github.com/offensive-vk/Python/blob/master/.github/SECURITY.md)
 - [Author 🧑‍💻](https://github.com/offensive-vk/)
