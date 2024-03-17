@@ -1,5 +1,6 @@
 # Assignments as of First Class <Date>
 
+"""
 1. Write a program to greet a user by getting name as input 
 2. Write a program to take height and width as input and show the area of triangle
 3. Write a program to take a number as input and show its table
@@ -58,3 +59,4 @@ and store that data in dictionary and then prompt the user to display the data o
 
 bonus3: write a program that takes a name as parameter which is optional and displays it multiple times (multiply it by length of parameter).
 =================================================================
+"""
