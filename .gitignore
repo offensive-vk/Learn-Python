@@ -1,6 +1,5 @@
+# ===========
 node_modules/
-test/
-tests/
 main.py
 dist/
 .vscode/
@@ -8,3 +7,4 @@ dist/
 *.xml
 __pycache__/
 venv/
+# ===========
