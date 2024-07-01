@@ -1,4 +1,5 @@
-# Various use cases of (*) in Python :
+# The Various use cases of (*) in Python :
+##########################################
 # Function to demonstrate variable-length arguments (*args)
 def print_args(*args):
     print("Variable-Length Arguments (*args):")
