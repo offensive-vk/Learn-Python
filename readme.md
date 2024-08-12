@@ -37,7 +37,7 @@ b = float(input("Enter B Float : "))
 
 # input a which is a string
 c = input("Enter String : ")
-print("\n=========================================\n")
+print("\n==================\n")
 
 # special format specifiers
 print(f"Values are: \nA: {a}\nB: {b}\nC: {c}")
@@ -46,10 +46,9 @@ print("\t - Tab Space\n")
 print("\v - Vertical Tab Space\n")
 print("\' - Single and \" Double Quote\n")
 
-print("\n============ The End ===================\n")
 ```
 
-## How to Actually Learn Python from Here
+## How to Actually Learn Python from Here Easily
 
 - Read Complete Documentation of Python Given Here.
 - Explore `Readme.md` File Given here.
